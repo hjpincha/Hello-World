@@ -1,0 +1,14 @@
+prefect==2.*
+cloudscraper
+requests
+tabula-py
+camelot-py
+feedparser
+newspaper3k
+trafilatura
+yfinance
+duckdb
+empyrical
+pandas
+numpy
+openai
